@@ -1,9 +1,9 @@
 /* ============ CONFIGURAÇÃO ============ */
 const CONFIG = {
-  whatsapp: "5592999999999",   // número da lanchonete (DDI+DDD+número)
+  whatsapp: "5592988483505",   // número da lanchonete (DDI+DDD+número)
   fee: 6,                      // taxa de entrega
   freeFrom: 70,                // frete grátis a partir de
-  pix: "00020126580014BR.GOV.BCB.PIX0136flash-lanches@pix.com.br5204000053039865802BR5913FLASH LANCHES6006MANAUS62070503***6304A1B2"
+  pix: "00020126360014br.gov.bcb.pix0114+55929884835055204000053039865802BR5925DIOGO DOS SANTOS DE SOUZA6009Sao Paulo62290525REC6AFC9A544EA3C521703919630452E8"
 };
 
 /* ============ CATÁLOGO ============ */
